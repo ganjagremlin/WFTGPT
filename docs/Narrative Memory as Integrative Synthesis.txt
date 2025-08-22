@@ -1,0 +1,165 @@
+Narrative Memory as Integrative Synthesis
+Extending the TSB Domain-Based Model of Memory Toward Meaning-Making and Identity
+1. Introduction
+Contemporary models of memory have traditionally relied on categorical distinctions to describe the structure and function of memory systems. Classical taxonomies such as episodic versus semantic (Tulving, 1972), declarative versus non-declarative (Squire & Zola, 1996), and explicit versus implicit (Baddeley, 2000) have provided essential frameworks for understanding how different types of information are encoded, stored, and retrieved. While these models have generated substantial empirical insight, they tend to prioritize the content and accessibility of memory over the form and structure of lived experience. In doing so, they often underemphasize the integrative and meaning-making functions that memory performs in the construction of identity, narrative coherence, and social communication (Conway & Pleydell-Pearce, 2000; Bruner, 1991).
+One particularly underrepresented process in these models is narrative memory—the capacity to organize remembered experience into temporally sequenced, emotionally resonant, and socially intelligible stories. Narrative memory is not easily reduced to content-based categories. Instead, it emerges from the dynamic interplay of multiple memory systems and neural processes that encode when, where, and how experiences occurred. This includes, but is not limited to, episodic memory, emotional salience, bodily sensations, and semantic knowledge. As such, narrative memory operates as a higher-order synthesis, integrating disparate components of memory into coherent, communicable, and personally meaningful forms (McAdams, 2001; Habermas & Bluck, 2000).
+A recently proposed framework—the Temporal–Spatial–Bio-Somatic (TSB) model—offers a novel approach to memory organization by reorienting focus toward the dimensions of experience rather than the types of knowledge. This model posits that memory is structured around three core domains: temporal memory (when), spatial memory (where), and bio-somatic memory (how it felt), each grounded in distinct but overlapping neuroanatomical systems. The TSB framework provides much-needed anatomical specificity and has compelling explanatory power, particularly in clinical contexts such as PTSD, Alzheimer’s disease, and interoceptive disorders.
+However, while the TSB model successfully captures the substrates of memory encoding, it does not explicitly account for how these encoded domains are organized into narrative form. The construction of narrative memory requires more than the recall of isolated domains; it depends on their integration through processes of temporal binding, emotional coherence, and meaning attribution. This paper argues that narrative memory should be understood as an emergent, integrative process built atop the domain-based infrastructure of memory, rather than as a competing or parallel memory system.
+In what follows, we define narrative memory in contrast to classical models, examine how it arises from the interplay of temporal, spatial, and bio-somatic domains, and propose a layered framework in which narrative memory functions as a meta-construct. We further explore its relevance for understanding trauma, identity, and the reconstruction of self through memory.
+
+2. Definitions and Theoretical Foundations
+2.1 What Is Narrative Memory?
+Narrative memory refers to the cognitive process through which individuals reconstruct past experiences into temporally organized, emotionally meaningful, and socially communicable stories. Unlike episodic memory, which is concerned with the recall of discrete events situated in time and space (Tulving, 1983), narrative memory emphasizes the sequencing, coherence, and interpretation of those events—often shaped by personal goals, social contexts, and cultural scripts (Bruner, 1991; Habermas & Bluck, 2000).
+At its core, narrative memory is a form of meaning-making. It is not simply the retrieval of facts or sensory details, but a structuring process that connects events across time, identifies causal relationships, and embeds emotional and bodily states within a broader story arc (McAdams, 2001). This makes narrative memory critical not only for autobiographical reasoning, but also for the formation of self-identity, the communication of life experience, and the integration of trauma (Conway & Pleydell-Pearce, 2000; Fivush et al., 2008).
+Importantly, narrative memory is not reducible to a single memory type within classical taxonomies. It draws upon:
+•	Episodic memory, for reconstructing specific events
+•	Semantic memory, for contextual knowledge and coherence
+•	Emotional and bio-somatic processing, for affective tone and embodiment
+•	Executive function, for narrative planning and goal-directed organization
+It also engages neural systems that extend beyond traditional memory circuits, including:
+•	The medial prefrontal cortex and default mode network (DMN) for self-referential processing
+•	The angular gyrus, temporal poles, and posterior cingulate cortex for narrative construction and autobiographical simulation (Spreng et al., 2009; Addis et al., 2007)
+•	Language-related areas, particularly in the left hemisphere, for verbal structuring of experience
+As such, narrative memory operates not at the level of encoding isolated details, but at the level of reconstructing and integrating those details into stories that are comprehensible to the self and to others. This makes it both dynamic and reconstructive, continually shaped by current beliefs, emotions, and social context (Neisser, 1988; Conway, 2005).
+While often implicit in therapeutic, autobiographical, and creative domains, narrative memory has remained under-theorized in dominant memory models—perhaps because it spans multiple systems and cannot be localized to a single structure or function. In this paper, we argue that it is precisely this integrative nature that makes narrative memory an essential complement to emerging domain-based frameworks.
+2.2 Overview of the TSB Model
+The Temporal–Spatial–Bio-Somatic (TSB) framework offers a reconceptualization of memory systems based on the dimensions of experience encoded rather than the type or accessibility of the memory. Rather than relying on categorical dichotomies such as declarative versus non-declarative (Squire, 2004) or episodic versus semantic (Tulving, 1983), the TSB model proposes that memory processes can be better understood through their functional orientation toward three core experiential domains:
+•	Temporal memory involves the encoding of sequence, duration, and the order of events—answering the question of when something happened. It is supported by regions such as the lateral entorhinal cortex (LEC), hippocampal subfields (particularly CA1), the medial prefrontal cortex, and specific thalamic nuclei (Tsao et al., 2018; Howard & Eichenbaum, 2013).
+•	Spatial memory refers to the brain’s representation of physical location, orientation, and navigational context—where events occur. Its core structures include the medial entorhinal cortex (MEC), hippocampal place cells, the anterior thalamic nuclei, retrosplenial cortex, and posterior parietal cortex (Hafting et al., 2005; Aggleton & Brown, 1999).
+•	Bio-somatic memory encodes the felt qualities of experience—bodily sensations, interoceptive signals, and affective tone. It is grounded in the insula (especially the anterior insula), amygdala, anterior cingulate cortex, and various thalamic and brainstem autonomic centers (Craig, 2002; Critchley et al., 2004).
+These domains are not isolated; rather, they are partially dissociable but highly interactive, with many brain structures participating flexibly depending on context. For instance, the thalamus is shown to contribute to all three domains through functionally distinct subnuclei (Mitchell, 2015), while the hippocampus receives converging temporal and spatial inputs and binds them with emotional salience.
+A central strength of the TSB model lies in its neuroanatomical precision and clinical applicability. By focusing on domain-specific encoding, it offers a framework for understanding selective impairments across conditions such as PTSD (bio-somatic dominance with fragmented temporal/spatial context), Alzheimer’s disease (loss of temporal-spatial coherence), and interoceptive disorders (bio-somatic deficits) (Brewin, 2011; Eichenbaum, 2014; Berntson & Khalsa, 2021).
+However, while the TSB framework excels at describing the substrates of experience encoding and retrieval, it does not directly address how these components are synthesized into narrative form. The ability to organize memories into coherent, temporally ordered, emotionally meaningful stories—central to autobiographical memory and identity—requires more than domain-specific encoding. It requires a meta-level process that integrates across domains, modulates based on social context, and supports the dynamic construction of meaning.
+In the next section, we examine how narrative memory arises from this integration, and propose a model in which the TSB domains serve as the foundational elements for narrative construction.
+
+3. Where Narrative Memory Emerges
+3.1 Narrative as an Integrative Process
+Narrative memory does not originate from a distinct encoding mechanism or neural substrate. Rather, it emerges as an integrative cognitive process that organizes temporally, spatially, and somatically encoded content into coherent, interpretable, and communicable structures. This synthesis allows memory to transcend fragmented or modality-specific representations and become meaningful within a broader autobiographical and cultural context.
+The process of narrative construction involves multiple levels of integration:
+•	Temporal memory provides the scaffolding for sequencing and causal coherence (“what happened first, then what?”).
+•	Spatial memory grounds the narrative in a setting or environment, often providing contextual cues that support retrieval and emotional resonance.
+•	Bio-somatic memory adds affective texture, imbuing the narrative with emotional tone and bodily realism that enhance memorability and personal significance (Damasio, 1996; Conway & Pleydell-Pearce, 2000).
+The prefrontal cortex and default mode network (DMN) play a central role in this integrative process, particularly during autobiographical reflection, mental simulation, and story generation (Spreng et al., 2009; Addis et al., 2007). These higher-order systems enable the binding of content across domains and the modulation of memory in relation to current goals, beliefs, and audience. In this sense, narrative memory is a constructive act—re-assembling prior experience in service of identity, emotion regulation, and social communication (Neisser, 1988; McAdams, 2001).
+3.2 From Domains to Story
+The transformation of domain-based memory into narrative form can be understood as a process of meaning-making. Temporal information is restructured into story arcs; spatial context becomes setting; and bio-somatic input gives rise to emotional tone, dramatic tension, and psychological realism. This layering process transforms raw memory traces into narrative structures with plot, character, conflict, and resolution.
+For example, the memory of a childhood injury may involve:
+•	Temporal encoding (sequence of events leading to the fall),
+•	Spatial context (the playground, the layout of the slide),
+•	Bio-somatic details (the sting of the wound, the rush of fear),
+•	But only through narrative memory is the event reconstructed as:
+“I was racing my friend, too fast, and I slipped right at the edge of the slide. I remember the fall like it was in slow motion. I couldn’t breathe when I hit the ground—it felt like forever.”
+Such storytelling not only reconstructs the event but also interprets it, assigning significance and emotion—often in retrospect.
+3.3 Social and Cultural Framing
+Narrative memory is shaped not only by internal processes but also by external, social, and cultural influences. Stories are constructed with audiences in mind, guided by shared schemas, norms of coherence, and expectations around what “makes sense” or is worth telling (Bruner, 1991; Habermas & Bluck, 2000). Cultural models influence the structure of life narratives—from chronological biographies to cyclical or thematic recollections—and determine which details are emphasized or omitted.
+Moreover, narrative memory plays a central role in identity construction, especially across developmental stages. Research shows that the ability to construct coherent life narratives is closely linked to psychological well-being, agency, and self-continuity (McAdams, 2001; Fivush et al., 2008). The integration of TSB domains into narrative form is therefore not only a cognitive process but a social and developmental achievement.
+
+4. Bridging Frameworks: Narrative as a Meta-Level System
+While the TSB model offers a compelling neuroanatomical and functional account of how distinct aspects of experience are encoded—when (temporal), where (spatial), and how it felt (bio-somatic)—it leaves open the question of how these components are synthesized into a unified, meaningful whole. This is the functional territory of narrative memory, which we propose should be conceptualized as a meta-level process layered atop the foundational domains of memory.
+4.1 A Layered Model of Memory Organization
+We propose a three-level framework that builds upon the logic of the TSB model:
+1.	Domain-Level Encoding
+At the base level, experiences are encoded through domain-specific systems:
+o	Temporal (e.g., lateral entorhinal cortex, CA1)
+o	Spatial (e.g., medial entorhinal cortex, place cells, anterior thalamus)
+o	Bio-somatic (e.g., insula, amygdala, ACC)
+This level captures the raw experiential dimensions of an event.
+2.	Episodic Integration
+The second level involves the binding of domain information into episodes, largely through hippocampal circuitry and medial prefrontal interactions. This is the level at which classic episodic memory operates, allowing for re-experiencing events as unified wholes (Eichenbaum, 2014; Howard & Eichenbaum, 2013).
+3.	Narrative Construction
+At the top level, narrative memory organizes episodes into temporally extended, thematically coherent stories. This process recruits the default mode network (DMN), language systems, and frontal executive regions to sequence, interpret, and reframe episodic material based on identity, context, and communicative intent (Addis et al., 2007; Spreng et al., 2009).
+This level supports:
+o	Autobiographical continuity
+o	Social storytelling
+o	Self-concept and meaning-making
+This layered architecture highlights that narrative memory is not a separate memory system, but rather a mode of synthesis that operates on the outputs of foundational encoding domains. It transforms temporally- and spatially-grounded experiences, colored by affective and bodily cues, into narratable, shareable structures.
+4.2 Functional Distinctiveness of Narrative Memory
+Despite its dependence on lower-level systems, narrative memory exhibits several functionally distinct characteristics:
+•	It is goal-directed, shaped by communicative purpose, identity needs, and social norms.
+•	It is flexible and reconstructive, prone to revision over time and sensitive to new context or insight.
+•	It is often linguistically mediated, relying on internal or external narration to structure and express the memory.
+•	It is meaning-oriented, transforming raw experience into lessons, morals, or thematic arcs.
+These properties distinguish narrative memory from domain-based encoding, even as it relies upon those domains for content.
+4.3 Theoretical and Clinical Implications
+Understanding narrative memory as a meta-process enables a more complete account of memory in both healthy and pathological states:
+•	In trauma, disruptions may occur not only at the domain level (e.g., fragmented temporal or spatial encoding), but at the narrative level—where integration fails, leading to incoherent or intrusive recall (Brewin, 2011).
+•	In therapy, narrative-based interventions (e.g., life review, narrative exposure) aim not just to retrieve memories, but to reorganize them into more coherent, tolerable, and empowering narratives (Neimeyer, 2000).
+•	In development, the capacity for autobiographical storytelling emerges through social scaffolding and reflects the maturation of both encoding and integrative systems (Fivush et al., 2008).
+By situating narrative memory within the broader architecture of memory, we acknowledge its dependence on neural systems of encoding and recall, while also recognizing its constructive, interpretive, and socially embedded nature.
+
+5. Implications and Applications
+Integrating narrative memory into a domain-based framework of memory provides a richer, more functionally complete model of how humans experience, organize, and use memory. While the TSB model accounts for how the brain encodes core experiential dimensions—time, space, and bodily/emotional feeling—it is narrative memory that enables these components to be reassembled into coherent, communicable, and meaningful stories. Recognizing narrative memory as a meta-level integrator has several key implications for clinical assessment, therapeutic intervention, developmental understanding, and experimental design.
+5.1 Clinical Conditions as Narrative Disruptions
+Many clinical memory disturbances can be understood not simply as deficits in domain-based encoding, but as failures of narrative integration:
+•	PTSD is often characterized by vivid bio-somatic flashbacks (e.g., bodily panic, fear) with poor temporal and spatial anchoring. The narrative is fragmented or absent, and intrusive memories are experienced as unassimilated and recurrent (Brewin, 2011). Therapeutic interventions such as narrative exposure therapy, EMDR, and somatic integration aim to restore coherence by re-linking these fragments into structured personal stories (Schauer et al., 2011).
+•	Depression is frequently associated with negatively biased or overgeneral autobiographical narratives—where events are stripped of detail, variety, and emotional nuance. These narrative patterns contribute to hopelessness and impaired identity continuity (Williams et al., 2007).
+•	In dementia, early degradation of hippocampal and entorhinal structures impairs the temporal-spatial domains, leading to disrupted episodic recall. However, patients may retain strong emotional or bio-somatic responses, even as narrative coherence declines. Therapies like music therapy and life review tap into these preserved emotional and narrative traces to support well-being (Cuddy & Duffin, 2005).
+5.2 Narrative as Therapeutic Mechanism
+In a variety of psychotherapeutic approaches—from cognitive-behavioral to narrative and existential therapies—the construction or revision of personal narratives is central to healing. These interventions rely on helping individuals:
+•	Retrieve domain-specific memory content
+•	Integrate fragmented or emotionally raw material
+•	Construct more adaptive, coherent, and agentic stories about the self and the past
+This is especially evident in trauma-focused therapy, where the goal is not merely to recall the traumatic event, but to reintegrate its temporal, spatial, and bio-somatic features into a narrative that can be understood, narrated, and emotionally regulated (Neimeyer, 2000; Foa et al., 2007).
+5.3 Developmental and Identity Implications
+The emergence of narrative memory is a developmental milestone, tightly linked to the formation of a coherent self-concept. In early childhood, autobiographical memory begins as fragmented and episodic; through caregiver scaffolding and language socialization, children learn to construct narrative accounts of their lives (Fivush & Nelson, 2004). These stories provide the basis for:
+•	Self-continuity across time
+•	Moral and emotional learning
+•	Identity development
+Across the lifespan, life narratives are used to interpret change, loss, achievement, and purpose. They reflect not only what we remember, but how we assign meaning to what we’ve lived.
+5.4 Experimental and Research Applications
+Framing narrative memory as a distinct integrative process opens new directions for research:
+•	Neuroimaging can investigate the transition from episodic recall to narrative construction, focusing on DMN engagement, language networks, and prefrontal modulation.
+•	Lesion studies can differentiate deficits in domain-specific encoding from impairments in narrative construction or coherence.
+•	Behavioral tasks can isolate narrative competencies—such as story coherence, causal linking, and emotional integration—and assess how these correlate with domain-specific recall.
+•	Cross-domain priming studies can test how strengthening one domain (e.g., spatial cues) affects narrative richness or coherence.
+This layered model also encourages more precise clinical assessments, capable of identifying whether disruptions lie in encoding, retrieval, or integration—offering clearer targets for intervention.
+5.5 Summary: Memory as Construction, Not Just Storage
+Together, these implications highlight that memory is not just about what is encoded, but how it is used. The narrative layer is where memory becomes functional—serving adaptation, identity, communication, and healing. Without it, even richly encoded domain content may remain fragmented, inaccessible, or overwhelming.
+The next section will outline future research directions and theoretical refinements needed to fully operationalize narrative memory within the neuroscience of memory.
+
+6. Future Directions and Conclusion
+6.1 Toward a More Complete Neuroscience of Memory
+This paper has proposed that narrative memory should be recognized as a distinct integrative process, one that builds upon but is not reducible to the domain-level encoding described in the Temporal–Spatial–Bio-Somatic (TSB) model. While the TSB framework provides an anatomically grounded account of how memory encodes when, where, and how it felt, narrative memory operates at a higher level—reconstructing and organizing these components into temporally structured, emotionally meaningful, and socially shareable stories.
+Rather than competing with classical categories like episodic or semantic memory, narrative memory transcends them, offering a mode of synthesis that is critical for identity formation, emotional regulation, and adaptive behavior. It engages a broad neural network—including the hippocampus, medial prefrontal cortex, insula, default mode network, and language systems—to assemble experience into structured mental representations that can be reflected on, revised, and communicated.
+6.2 Research Agenda: Open Questions and Priorities
+To further develop this integrative model, several avenues of research are needed:
+•	Neurobiological Mapping of Narrative Construction
+Future work should identify the specific neural dynamics that distinguish narrative construction from episodic retrieval. This includes exploring how default mode regions interact with memory systems, how linguistic and executive areas support narrative planning, and how domain inputs are flexibly modulated by task demands.
+•	Developmental Trajectories of Narrative Memory
+Longitudinal studies could examine how narrative capabilities emerge in parallel with maturation of domain systems and self-concept, especially in early childhood and adolescence.
+•	Clinical Profiling Based on Narrative Integration
+Assessing narrative coherence, emotional integration, and temporal structure in clinical populations may yield diagnostic insight beyond traditional memory tests. Tools that measure narrative memory directly—through storytelling tasks, coherence ratings, or narrative fluency—could guide tailored interventions.
+•	Cross-Domain Priming and Memory Reconstruction
+Experimental studies can explore how activating one domain (e.g., spatial or bio-somatic cues) facilitates or interferes with narrative recall, potentially revealing causal mechanisms behind memory integration and distortion.
+•	AI and Computational Modeling
+Computational models could simulate how domain-specific inputs are selected, weighted, and reassembled into narrative outputs, offering mechanistic insight into memory construction and distortion.
+6.3 Conclusion: Memory as a Narrative Brain Function
+By integrating narrative memory into a domain-based understanding of memory, we move toward a model that better reflects the complex, embodied, and socially embedded nature of human memory. Narrative memory allows us not just to retrieve information, but to make sense of it. It is where past events are transformed into stories, stories into identity, and identity into continuity.
+This layered framework does not discard classical distinctions or anatomical precision—it builds on them. It reframes memory not simply as a storage system, but as a dynamic process of construction, communication, and meaning-making. By recognizing narrative memory as a central organizing function of the mind, we align neuroscience more closely with lived experience, and open the door to richer, more integrative approaches in both research and practice.
+
+References
+Addis, D. R., Wong, A. T., & Schacter, D. L. (2007). Remembering the past and imagining the future: Common and distinct neural substrates during event construction and elaboration. Neuropsychologia, 45(7), 1363–1377. https://doi.org/10.1016/j.neuropsychologia.2006.10.016
+Aggleton, J. P., & Brown, M. W. (1999). Episodic memory, amnesia, and the hippocampal–anterior thalamic axis. Behavioral and Brain Sciences, 22(3), 425–489. https://doi.org/10.1017/S0140525X99002034
+Berntson, G. G., & Khalsa, S. S. (2021). Interoception and the brain: Homeostasis, body awareness, and mental health. Trends in Neurosciences, 44(1), 3–16. https://doi.org/10.1016/j.tins.2020.10.007
+Brewin, C. R. (2011). The nature and significance of memory disturbance in posttraumatic stress disorder. Annual Review of Clinical Psychology, 7, 203–227. https://doi.org/10.1146/annurev-clinpsy-032210-104544
+Bruner, J. (1991). The narrative construction of reality. Critical Inquiry, 18(1), 1–21. https://doi.org/10.1086/448619
+Conway, M. A. (2005). Memory and the self. Journal of Memory and Language, 53(4), 594–628. https://doi.org/10.1016/j.jml.2005.08.005
+Conway, M. A., & Pleydell-Pearce, C. W. (2000). The construction of autobiographical memories in the self-memory system. Psychological Review, 107(2), 261–288. https://doi.org/10.1037/0033-295X.107.2.261
+Craig, A. D. (2002). How do you feel? Interoception: The sense of the physiological condition of the body. Nature Reviews Neuroscience, 3(8), 655–666. https://doi.org/10.1038/nrn894
+Critchley, H. D., Wiens, S., Rotshtein, P., Öhman, A., & Dolan, R. J. (2004). Neural systems supporting interoceptive awareness. Nature Neuroscience, 7(2), 189–195. https://doi.org/10.1038/nn1176
+Cuddy, L. L., & Duffin, J. (2005). Music, memory, and Alzheimer’s disease: Is music recognition spared in dementia, and how can it be assessed? Medical Hypotheses, 64(2), 229–235. https://doi.org/10.1016/j.mehy.2004.09.005
+Damasio, A. R. (1996). The somatic marker hypothesis and the possible functions of the prefrontal cortex. Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences, 351(1346), 1413–1420. https://doi.org/10.1098/rstb.1996.0125
+Eichenbaum, H. (2014). Time cells in the hippocampus: A new dimension for mapping memories. Nature Reviews Neuroscience, 15(11), 732–744. https://doi.org/10.1038/nrn3827
+Fivush, R., & Nelson, K. (2004). Culture and language in the emergence of autobiographical memory. Psychological Science, 15(9), 573–577. https://doi.org/10.1111/j.0956-7976.2004.00722.x
+Fivush, R., Habermas, T., Waters, T. E., & Zaman, W. (2008). The making of autobiographical memory: Intersections of culture, narratives, and identity. International Journal of Psychology, 43(3–4), 145–155. https://doi.org/10.1080/00207590802087943
+Foa, E. B., Hembree, E. A., & Rothbaum, B. O. (2007). Prolonged exposure therapy for PTSD: Emotional processing of traumatic experiences. Oxford University Press.
+Habermas, T., & Bluck, S. (2000). Getting a life: The emergence of the life story in adolescence. Psychological Bulletin, 126(5), 748–769. https://doi.org/10.1037/0033-2909.126.5.748
+Howard, M. W., & Eichenbaum, H. (2013). The hippocampus, time, and memory across scales. Journal of Experimental Psychology: General, 142(4), 1211–1230. https://doi.org/10.1037/a0033621
+McAdams, D. P. (2001). The psychology of life stories. Review of General Psychology, 5(2), 100–122. https://doi.org/10.1037/1089-2680.5.2.100
+Mitchell, A. S. (2015). The mediodorsal thalamus as a higher order thalamic relay nucleus important for learning and decision-making. Neuroscience & Biobehavioral Reviews, 54, 76–88. https://doi.org/10.1016/j.neubiorev.2015.03.001
+Neimeyer, R. A. (2000). Meaning reconstruction and the experience of loss. American Psychological Association. https://doi.org/10.1037/10397-000
+Neisser, U. (1988). Five kinds of self-knowledge. Philosophical Psychology, 1(1), 35–59. https://doi.org/10.1080/09515088808572924
+Spreng, R. N., Mar, R. A., & Kim, A. S. N. (2009). The common neural basis of autobiographical memory, prospection, navigation, theory of mind, and the default mode. Journal of Cognitive Neuroscience, 21(3), 489–510. https://doi.org/10.1162/jocn.2008.21029
+Squire, L. R., & Zola, S. M. (1996). Structure and function of declarative and nondeclarative memory systems. Proceedings of the National Academy of Sciences, 93(24), 13515–13522. https://doi.org/10.1073/pnas.93.24.13515
+Tulving, E. (1983). Elements of episodic memory. Oxford University Press.
+Williams, J. M. G., Barnhofer, T., Crane, C., Hermans, D., Raes, F., Watkins, E., & Dalgleish, T. (2007). Autobiographical memory specificity and emotional disorder. Psychological Bulletin, 133(1), 122–148. https://doi.org/10.1037/0033-2909.133.1.122
+
