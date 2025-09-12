@@ -1,0 +1,58 @@
+Study A — Wₘ (Bio Somatic) Coupling: Hippocampus ↔ Insula ↔ Vagal Tone
+Title
+Hippocampal–Insular Coupling and Vagal Dynamics During Symptom Safe Trauma Imagery: A Test of Wₘ (bio somatic) Collapse/Reentry
+Rationale (WFT → Neural)
+WFT posits that Wₘ(bio somatic) anchors somatic recursion independent of symbol; collapse appears as somatic flashback and temporal desync. Neural substrates (insula/interoception) should couple with hippocampal systems during triggered imagery, with autonomic (vagal) shifts indexing collapse and reentry.
+Hypotheses
+1.	Coupling↑ under load: During trauma imagery (vs neutral), hippocampus↔anterior insula functional connectivity increases.
+2.	Autonomic shift: HRV (RMSSD) decreases and respiration irregularity increases during imagery; magnitude correlates with coupling.
+3.	Reentry metric: Post run guided reentry (breath cadence) restores HRV toward baseline and reduces coupling to neutral levels; incomplete restoration predicts higher next day intrusion severity.
+4.	Clinical moderation: PTSD group shows larger coupling↑ and slower reentry vs matched controls.
+Design
+•	Mixed factorial: Condition (Neutral, Symptom Safe Imagery, Reentry) × Group (PTSD, Control).
+•	Within subject counterbalanced blocks; therapist present; stop rules pre registered.
+Participants
+•	N=60 (30 PTSD, 30 controls), 18–65, right handed, vision normal/corrected.
+•	PTSD diagnosis via CAPS 5; controls screened negative. Exclude: cardiac arrhythmias affecting HRV, psychotropic dose changes <6 weeks.
+Tasks/Stimuli
+•	Imagery scripts: participant generated, clinician edited to be symptom safe; 30–45s audio blocks.
+•	Reentry: paced breathing (e.g., 6 cpm) + brief grounding script.
+Measures
+•	3T/7T fMRI (hippocampus, insula, PCC as covariate); multi echo if available.
+•	Physiology: HRV (ECG), respiration belt, EDA, pupillometry.
+•	Self report: SUDS (per block), PANAS; next day intrusions diary (24–48h).
+Procedure
+1.	Baseline rest (5 min, eyes open).
+2.	Neutral blocks ×3.
+3.	Imagery blocks ×3 (with safety monitoring).
+4.	Reentry block after each imagery (paced breath 2 min + grounding 1 min).
+5.	Debrief + safety check; next day diary.
+Primary Outcomes
+•	FC(hipp↔insula) per condition; HRV change (ΔRMSSD) per condition; correlation between FC and HRV.
+Secondary Outcomes
+•	Next day intrusions ~ reentry restoration index (HRV back to baseline % + FC normalization).
+Analysis Plan
+•	First level: GLM with block regressors; nuisance (motion, physio). Extract ROI timeseries.
+•	Connectivity: PPI for imagery>neutral; β series or gPPI robustness check.
+•	Autonomic coupling: Linear mixed models: FC ~ Condition*Group + HRV + (1|subject).
+•	Reentry index: Composite z of HRV restoration + FC normalization. Predict next day intrusions.
+•	Correction: FDR across ROI pairs; preregistered ROIs to limit multiplicity.
+Power & N
+•	Detect fMRI FC Δ of d=0.5 within subject (α=.05, power=.80) → n≈34; inflate for groups and attrition → N=60.
+Exclusions
+•	Excess motion (>0.5 mm FD in >20% volumes), panic stop, equipment failure.
+Prereg Items
+•	ROIs (hippocampus head/body; anterior insula), HRV metric (RMSSD), primary contrasts, reentry composite formula, stop rules.
+Ethics & Safety
+•	Clinician present; real time distress monitoring; immediate abort allowed.
+Reentry Protocol
+•	Paced breath + grounding after any provocative block; post scan debrief; resource handout; optional follow up call.
+Data/Code
+•	BIDS; prereg analysis scripts; de identified derivatives shared on OSF.
+________________________________________
+Notes for All Studies
+•	Blinding: Analysts blinded to condition/group where feasible.
+•	Multiple Comparisons: Limit to prereg ROIs; FDR for exploratory.
+•	Reporting: Deviations from prereg documented; null results reported.
+•	Generalization: Templates are modular—swap tasks for population specific variants (e.g., grief instead of trauma; dyadic tasks for Wₑ).
+

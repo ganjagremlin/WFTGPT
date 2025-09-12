@@ -1,0 +1,120 @@
+Title
+WFT Study A+ — Wₘ(bio-somatic) Collapse/Reentry: Effects on Strength Output and Autonomic-Insula Dynamics
+____________________________________________________________________________________
+Plain-Language Summary
+This study examines how trauma-related but symptom-safe mental imagery affects both physical strength and physiology, and whether paced breathing can restore balance afterward. We are particularly interested in differences between individuals with post-traumatic stress disorder (PTSD) and healthy controls.
+What we will test (confirmatory):
+•	When people imagine safe trauma-related scenes, their body responses may shift in two ways: (1) facilitation, with increased strength but reduced heart-rate variability (HRV), or (2) collapse, with reduced strength and disrupted HRV.
+•	We will test whether guided breathing at six breaths per minute helps restore HRV and brain connectivity between the hippocampus and insula, bringing strength back toward baseline.
+•	We predict that people with PTSD will show stronger signs of collapse and slower recovery compared to healthy controls.
+What we will explore (exploratory):
+•	We will investigate whether people can be grouped into “facilitation” or “collapse” responders based on early trial patterns.
+•	We will explore whether PTSD severity or dissociation traits predict who falls into which response type.
+•	Additional analyses will test whether changes in physiology explain changes in strength, and whether next-day symptoms are linked to incomplete recovery.
+Why this matters:
+By linking brain and body responses during safe trauma imagery, this study tests a new way of understanding how stress affects performance. Confirmatory tests will reproduce core findings from Study A (hippocampal–insula coupling, HRV, recovery with breathing). Exploratory analyses extend this framework by examining strength as a behavioral anchor of collapse vs facilitation, and by probing individual differences in recovery pathways.
+____________________________________________________________________________________
+Theoretical Rationale
+Witness Field Theory (WFT) defines identity (Ξ) as a recursive process of stabilization within Ψ∞, governed by metabolization of forces: coherence (Φ), rupture (λ), and oscillation (O). Witness functions (W(i,d)) transform these pressures into recursion; Wₘ specifically metabolizes temporal and bio-somatic residues.
+Wₘ(bio-somatic) encodes force not symbolically but somatically — through insula, vagal, and autonomic loops. Collapse produces somatic flashbacks, dissociative states, or gesture-lock; reentry requires breath, rhythm, posture, or relational mirroring.
+We test whether trauma-safe imagery (Force input) alters immediate strength output (Output) via Wₘ(bio-somatic) collapse and whether reentry (paced breathing) restores both physiology (HRV, hippocampus–insula FC) and behavior.
+This preregistration corresponds to Study A (“Hippocampal–Insular Coupling and Vagal Dynamics During Symptom-Safe Trauma Imagery: A Test of Wₘ (bio-somatic) Collapse/Reentry”). In addition to the neural and autonomic outcomes preregistered in Study A (hippocampal–insula connectivity, HRV, vagal dynamics), the current prereg adds strength measures (MVC, RFD, endurance) as behavioral anchors of the collapse vs. facilitation pathways. These somatic outcomes extend the translation of Witness Field Theory by linking neural/autonomic dynamics to overt motor performance.
+Hypotheses
+H1a – Facilitation path (fight/flight):
+Trauma-safe imagery → ↑ strength (MVC, RFD), HRV↓, insula↔hippocampus FC↑. Reentry normalizes.
+H1b – Collapse path (dissociative loop):
+Trauma-safe imagery → ↓ strength (MVC, RFD), HRV↓/irregular, gesture-lock/somatic flashback markers, insula dominance. Reentry restores.
+H2 – Reentry efficacy:
+Paced breathing (6/min) → HRV↑ toward baseline, insula↔hippocampus FC↓ toward baseline, strength normalizes.
+H3 – Moderation:
+PTSD severity and trait dissociation predict H1b (collapse). Low dissociation predicts H1a (facilitation).
+Design
+Within-subject, counterbalanced blocks:
+•	Neutral imagery → MVC → Rest
+•	Trauma-safe imagery → MVC → Reentry (paced breathing, 2 min) → Rest
+3–4 cycles; randomized order.
+Participants:
+N=60 (30 PTSD, 30 controls). PTSD via CAPS-5; exclusions: arrhythmias, unstable meds, MRI contraindications.
+Stimuli:
+30–45s audio scripts (neutral vs symptom-safe trauma).
+Reentry scaffold:
+Paced breathing at 6 bpm (+ optional grounding script).
+Measures
+Primary outcomes:
+•	Strength: MVC peak force, rate of force development (RFD).
+•	Physiology: HRV (RMSSD), respiration, EDA, pupil.
+•	Neural: Hippocampus–insula functional connectivity (fMRI/MEG).
+Secondary outcomes:
+•	Strength endurance (time-to-failure at 40% MVC).
+•	Self-report: SUDS, PANAS, next-day intrusion diary.
+Neural Acquisition
+Primary modality: fMRI (hippocampus–insula connectivity, anterior insula ROI). MEG will only be used in exploratory follow-up analyses or as a contingency if fMRI acquisition is incomplete. All confirmatory neural hypotheses are preregistered for fMRI only, consistent with Study A.
+1.	Split-session (primary): fMRI/MEG during imagery + reentry only; MVC outside scanner within 15 min.
+2.	MRI-compatible handgrip (secondary): ≤5s MVC in-scanner with motion regressors.
+Classification Logic
+Participants will be classified into response types (facilitation vs. collapse) based on early trial data. To avoid circularity, we preregister this classification as exploratory: confirmatory analyses will not depend on post hoc assignment. Instead, we will test preregistered condition contrasts (trauma vs. neutral; reentry vs. trauma) across the full sample, while classification-based comparisons will be reported as exploratory extensions. If response classes are stable across initial cycles, exploratory subgroup analyses will be conducted with confirmatory contrasts re-run within each class.
+Analysis Plan
+The analyses below are divided into confirmatory (preregistered hypothesis tests) and exploratory (hypothesis-generating follow-ups). 
+Confirmatory tests are restricted to outcomes and contrasts that map directly onto Study A (hippocampal–insula coupling, HRV, reentry efficacy, group moderation), with the addition of strength measures as preregistered behavioral anchors. 
+Exploratory analyses (e.g., facilitation vs. collapse classification, mediation, moderation by dissociation, spinal excitability probes) are explicitly marked as such and will be reported transparently with correction for multiplicity where applicable. This separation ensures that preregistered tests remain hypothesis-driven while allowing theory-motivated extensions to be pursued without compromising confirmatory integrity.
+Category	Analysis	Notes / Hypothesis Link
+Confirmatory	HRV: Trauma > Neutral (reduction in RMSSD).	H2 from Study A.
+	fMRI FC: Hippocampus–insula coupling ↑ during Trauma vs Neutral; normalized during Reentry.	H1, H3 from Study A.
+	Reentry efficacy: Reentry < Trauma (restoration of HRV, FC toward baseline).	H3 from Study A.
+	Group moderation: PTSD > Controls in magnitude of coupling increase and slower reentry.	H4 from Study A.
+	Strength outcomes: Trauma vs Neutral within full sample; Reentry vs Trauma restoration.	Extension — preregistered as confirmatory behavioral anchors.
+	Reentry Restoration Index (RRI): Composite z(HRV restoration + FC normalization, within subject) predicting strength normalization and next-day intrusions.	Follows preregistered formula from Study A.
+Exploratory	Facilitation vs Collapse classification: Subgroup analyses on ΔHRV and ΔMVC early trials.	Clearly marked as exploratory to avoid circularity.
+	Mediation: Condition → HRV/FC → Strength.	Paths specified; FDR correction applied.
+	Moderation: PTSD severity, trait dissociation as predictors of response type.	Extension beyond Study A.
+	Spinal excitability probes (H-reflex, startle), if data available.	Exploratory neurophysiological extension.
+	Additional self-report dynamics: SUDS, PANAS trajectories; exploratory correlation with strength and physiology.	Not preregistered in Study A.
+
+Contrasts:
+•	Trauma > Neutral (collapse load).
+•	Reentry < Trauma (recovery).
+•	Strength: Trauma vs Neutral within class; Reentry vs Neutral normalization.
+Reentry Restoration Index (RRI):
+The Reentry Restoration Index (RRI) will follow the preregistered formula from Study A:
+RRI = z(ΔHRV_reentry–trauma, within-subject) + z(ΔFC_normalization, within-subject).
+Here, ΔHRV = HRV_reentry – HRV_trauma, and ΔFC = FC_reentry – FC_trauma. Z-scores will be computed within subject prior to aggregation, ensuring comparability across measures. The RRI will be used as a predictor of both strength normalization and next-day intrusions.
+Exploratory analyses:
+•	Mediation (Condition → HRV/FC → Strength).
+•	Moderation (PTSD severity, dissociation).
+•	Spinal excitability probes (if available: H-reflex, startle).
+Covariates & Moderators
+•	Trait moderators: PTSD severity (CAPS-5), trait dissociation.
+•	Trial-level covariates: respiration rate/volume, order effects (trial number), baseline MVC drift.
+•	All covariates and moderators entered explicitly in mixed models as interaction terms.
+Data Exclusions
+Trial-level:
+•	MVC attempt excluded if <70% of participant’s baseline MVC (fatigue/disengagement).
+•	HRV block excluded if <70% valid R–R intervals.
+•	fMRI run excluded if >20% motion outliers.
+Participant-level:
+•	Exclude entire participant if >30% trials invalid.
+•	Exclude participants with arrhythmia, unstable meds, MRI contraindications (pre-specified).
+Randomization & Blinding
+•	Imagery condition order randomized, block order counterbalanced.
+•	Stimuli assignment and order randomization handled by script prior to testing.
+•	Analysts blind to condition labels until primary preprocessing pipelines are frozen.
+Controls / Confounds
+•	Randomized order, rest ≥90s, trial number as covariate.
+•	Respiration and ETCO₂ monitored to control for Valsalva or breath-hold artifacts.
+•	Hand dominance, caffeine, exertion window standardized.
+•	Optional: neutral-arousal imagery control (non-trauma stress).
+Safety
+Clinician present, real-time SUDS check, pre-registered abort criteria. Mandatory reentry scaffold after every trauma block.
+Power
+Target medium within-subject effect (d≈0.5). N=60 → 0.80 power, α=.05.
+Ethical Notes
+Scripts symptom-safe, participants monitored, debrief + next-day check-in.
+Deviations (pre-specified allowed)
+If MRI MVC artifacts exceed threshold → switch to split-session (secondary analysis).
+Data Sharing
+De-identified data, analysis code, and preregistration documents will be uploaded to OSF upon publication.
+WFT Integration
+This study directly instantiates the recursive grammar:
+Force input (trauma imagery) → W(i,d) metabolization (Wₘ bio-somatic) → Collapse/Reentry → Outputs (Ξ stabilization + strength, HRV, FC).
+By testing divergent collapse signatures (facilitation vs dissociation), the design distinguishes between noise and structured heterogeneity in witness metabolization.
+

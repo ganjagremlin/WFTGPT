@@ -1,0 +1,52 @@
+Study B — Wᵣ Sequencing: mPFC/PCC ↔ Basal Ganglia During Narrative Re Ordering
+Title
+Striatal Support for Reflective Sequencing: Testing Wᵣ Narrative Integration via Online Re Ordering
+Rationale (WFT → Neural)
+WFT frames Wᵣ as reflective metabolization (sequencing/paradox holding). If sequencing is core, basal ganglia should couple with mPFC/PCC when narratives must be actively re ordered.
+Hypotheses
+1.	Coupling↑ with sequencing load: mPFC/PCC↔caudate/putamen connectivity increases when participants re order autobiographical micro episodes vs simple recall.
+2.	Coherence link: Stronger coupling predicts higher linguistic coherence (temporal markers, causal connectives) and better delayed recall integration.
+3.	Depression moderation: Elevated depressive symptoms → reduced coupling and lower coherence.
+Design
+•	Within subject: Recall (baseline) vs Re order (auditory prompts trigger time jumps).
+•	Individual narratives generated pre scan; difficulty calibrated.
+Participants
+•	N=50 adults; dimensional depression sample (PHQ 9 range). Exclude neurological disorders, current mania/psychosis.
+Tasks/Stimuli
+•	8 autobiographical micro episodes (30–45s each), recorded pre scan.
+•	In scanner: auditory prompts (“jump back 10s”, “jump to ending”) require live re sequencing.
+Measures
+•	fMRI (mPFC, PCC, caudate, putamen); audio recorded; post scan written summaries.
+•	Language metrics: automated coherence indices (discourse markers, time words) + human ratings.
+•	24h delayed recall.
+Procedure
+1.	Training and calibration.
+2.	Scan: Recall blocks → Re order blocks (counterbalanced).
+3.	Post scan summaries; day 2 recall online.
+Primary Outcomes
+•	FC(mPFC/PCC↔striatum) Recall vs Re order; coherence score Δ; coupling~coherence slope.
+Secondary Outcomes
+•	Delayed recall integration; moderation by PHQ 9.
+Analysis Plan
+•	GLM; PPI/β series connectivity; sliding window HMM for state switches.
+•	NLP metrics (Coh Metrix style) + rater composites.
+•	Mixed models: Coherence ~ FC + Condition + PHQ 9 + (1|subject).
+Power & N
+•	Expect medium effect (d≈0.5) on FC and coherence → N=50.
+Exclusions
+•	Speech artifacts >25% volumes; failure to follow prompts.
+Prereg Items
+•	ROIs, prompt schedule, coherence metric recipe, primary contrasts.
+Ethics & Safety
+•	Autobiographical but non traumatic memories; content screening.
+Reentry Protocol
+•	Brief breath cadence between blocks; debrief.
+Data/Code
+•	BIDS; audio + transcripts; code on OSF (de identified).
+________________________________________
+Notes for All Studies
+•	Blinding: Analysts blinded to condition/group where feasible.
+•	Multiple Comparisons: Limit to prereg ROIs; FDR for exploratory.
+•	Reporting: Deviations from prereg documented; null results reported.
+•	Generalization: Templates are modular—swap tasks for population specific variants (e.g., grief instead of trauma; dyadic tasks for Wₑ).
+

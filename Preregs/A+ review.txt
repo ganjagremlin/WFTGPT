@@ -1,0 +1,25 @@
+To start, I noticed a few things in your prereg draft:
+•	Strengths: Clear hypotheses (facilitation vs collapse), strong safety planning, well-specified mixed-model contrasts, explicit exclusion thresholds.
+•	Potential issues:
+o	Classification logic: Using early trial data for facilitation vs collapse may risk circularity unless confirmatory vs exploratory splits are watertight.
+o	Exploratory analyses: Mediation/moderation seem under-specified (paths, variables, corrections?).
+o	Deviations: Switching to split-session design is reasonable but should clarify how analyses will be adjusted.
+o	fMRI/MEG: Need clear preregistration about which is primary if both are used.
+o	Reentry Restoration Index (RRI): Composite is creative, but prereg should state exactly how z-scores will be calculated (per subject? per trial? across group?).
+Key things to align as you move forward
+1.	Terminology consistency
+o	The prereg uses “facilitation vs. collapse pathways” language, while the main translation paper uses “hippocampal–insula coupling and vagal dynamics” (Study A).
+Suggestion: Add a bridging line in the prereg: “This prereg corresponds to Study A (Wₘ bio-somatic) as outlined in Translating WFT into Experimental Protocols.”
+2.	Levels of abstraction
+o	Executive summary: broad audience, interdisciplinary.
+o	Translation paper: theory-to-lab scaffolding.
+o	Prereg: testable details.
+Suggestion: In your prereg, keep exploratory theory references (Witness functions, Ξ recursion) brief, then cite the full paper for rationale. That prevents prereg from looking overloaded.
+3.	Prereg clarity
+o	The prereg’s analysis plan is strong but still mixes confirmatory & exploratory analyses.
+Suggestion: Explicitly link prereg confirmatory tests to hypotheses in Study A, and mark mediation/moderation as exploratory.
+4.	Cross-document integrity
+o	Study A focuses on hippocampal–insula–vagal coupling.
+o	Your prereg adds behavioral strength output (MVC, RFD) as a somatic anchor.
+Suggestion: Flag this addition in both directions: prereg should note this is an extension, and if you plan to publish the translation paper, add a footnote noting “strength measures added as behavioral somatic outputs.”
+

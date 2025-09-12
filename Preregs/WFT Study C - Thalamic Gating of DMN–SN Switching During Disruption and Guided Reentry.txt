@@ -1,0 +1,52 @@
+Study C — Collapse/Reentry Backbone: Thalamus ↔ DMN ↔ Salience Network
+Title
+A Triadic Model of Phase Change: Thalamic Gating of DMN–SN Switching During Disruption and Guided Reentry
+Rationale (WFT → Neural)
+WFT predicts a backbone for phase change: SN detects disruption (collapse onset), thalamus gates synchrony, DMN supports metabolization; guided reentry should normalize triadic dynamics.
+Hypotheses
+1.	Disruption: Mild cognitive/emotional disruption increases SN→DMN effective connectivity and reduces thalamus→DMN coupling.
+2.	Reentry: Brief ritualized breath cadence restores thalamus→DMN coupling and reduces aberrant SN→DMN drive.
+3.	Behavioral link: Magnitude of triadic normalization predicts faster subjective recovery and task performance rebound.
+Design
+•	Within subject A–B–A: Baseline → Disruption → Reentry; counterbalanced disruptor types (cognitive conflict; affective ambiguity).
+Participants
+•	N=48 healthy adults.
+Tasks/Stimuli
+•	Disruption blocks: (i) unsolved anagram sets with time pressure; (ii) ambiguous social feedback clips (non traumatic).
+•	Reentry: 2 min paced breathing (6 cpm) + 30s stillness.
+Measures
+•	7T fMRI (thalamic nuclei: MD, ATN, pulvinar); 3T acceptable with optimized subcortical pipeline.
+•	Network nodes: DMN (mPFC, PCC, hippocampus), SN (aINS, dACC).
+•	Physiology: HRV, respiration.
+•	Subjective: momentary distress, recovery time.
+Procedure
+1.	Baseline rest (5 min).
+2.	Disruption Block A (cognitive) → Reentry.
+3.	Disruption Block B (affective) → Reentry.
+4.	Post scan recovery + debrief.
+Primary Outcomes
+•	Spectral DCM estimates: SN→DMN, thalamus→DMN per block; Δ(Reentry Disruption).
+Secondary Outcomes
+•	HRV restoration; subjective recovery latency; correlations with DCM changes.
+Analysis Plan
+•	First level GLMs; ROI extraction; spectral DCM across triad; within subject contrasts.
+•	Mediation: Reentry effect on recovery mediated by thalamus→DMN normalization.
+Power & N
+•	Simulation based DCM power (pilot n≈12) to target Δ connectivity of medium size; planned N=48 after attrition.
+Exclusions
+•	Excess motion; inability to follow breath pacing; physiological data loss.
+Prereg Items
+•	ROI definitions; disruptor stimuli lists; DCM model space; breath cadence; primary contrasts; recovery metrics.
+Ethics & Safety
+•	Non traumatic disruptors; monitoring; immediate abort option.
+Reentry Protocol
+•	Paced breath after each disruptor; post scan guided grounding; follow up check if needed.
+Data/Code
+•	BIDS; DCM model space shared; prereg on OSF; analysis scripts public.
+________________________________________
+Notes for All Studies
+•	Blinding: Analysts blinded to condition/group where feasible.
+•	Multiple Comparisons: Limit to prereg ROIs; FDR for exploratory.
+•	Reporting: Deviations from prereg documented; null results reported.
+•	Generalization: Templates are modular—swap tasks for population specific variants (e.g., grief instead of trauma; dyadic tasks for Wₑ).
+
