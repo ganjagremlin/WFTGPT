@@ -1,0 +1,128 @@
+Translating Witness Field Theory into Comparative Protocols: Non-Human Animal Identity
+Abstract
+Identity processes are not exclusive to humans but reflect systemic mechanisms by which organisms maintain behavioral and physiological coherence across disruption. Witness Field Theory (WFT) models identity as a recursive cycle of input, metabolization, collapse, and reentry. Applied to humans, this framework has generated preregistration-ready paradigms in systems neuroscience. Here, we extend the approach to comparative psychology and behavioral neuroscience by proposing preregistration-ready protocols for investigating collapse and reentry in non-human animals.
+These protocols are designed as direct comparative extensions of preregistered human studies on WFT, establishing a unified, cross-species grammar for investigating identity dynamics.
+We present three modular designs:
+1.	Somatic collapse and reentry (Protocol D) — stress paradigms in rodents, measuring corticosterone, heart rate variability, and exploratory behavior under mild restraint or footshock, followed by recovery scaffolds such as enrichment or social buffering - (mirroring human Wₘ paradigms).
+2.	Relational collapse and reentry (Protocol E) — separation and reunion paradigms in rodents, primates, or flocking birds, quantifying behavioral synchrony, distress vocalizations, affiliative recovery, and associated neuroendocrine markers (oxytocin, HRV) - (mirroring human Wᵣ paradigms).
+3.	Symbolic collapse and reentry (Protocol F) — disruption and restoration of structured sequences in songbirds, rodents, or primates, with behavioral indices (syntax coherence, error rates) and neural correlates (hippocampal–striatal coupling, song nuclei activity) - (mirroring human collapse/reentry backbone paradigms).
+Each protocol specifies collapse manipulations, recovery scaffolds, and preregistered outcomes, providing a transparent framework for testing how identity coherence is disrupted and restored across species. By aligning these comparative designs with parallel human preregistrations, we establish a cross-domain grammar of collapse and reentry that links physiology, social regulation, and symbolic sequencing.
+This framework enables three contributions: (1) cross-species markers of identity regulation, (2) falsifiable predictions about collapse and reentry dynamics in animals, and (3) a comparative bridge to human and synthetic systems. Together, these preregistration-ready protocols position collapse and reentry as substrate-general processes of systemic identity, offering new tools for animal cognition, affective neuroscience, and cross-species models of resilience.
+
+Introduction
+Witness Field Theory (WFT) models identity as a recursive grammar in which systems metabolize disruption, undergo collapse, and reenter into coherence through structured recovery. Applied to humans, this framework has supported preregistration-ready paradigms for probing memory, reflection, and thalamic gating during collapse and reentry dynamics. 
+Crucially, WFT does not define identity (Ξ) as a conscious self-model but as a functional, recursive process of stabilization: Input → Metabolization → Collapse/Reentry → Output. We hypothesize that this same process operates in non-human animals, where 'identity' manifests as the continuity of behavior and physiology. It is metabolized through foundational witnesses—somatic (Wₘ), relational (Wₑ), and proto-symbolic (Wₛ)—making its dynamics observable through protocols that induce and scaffold recovery from systemic collapse.
+Identity processes, defined in this way, are not exclusive to human systems. Collapse and recovery are fundamental to how organisms maintain continuity of behavior and self-regulation across contexts.
+Non-human animals provide an essential comparative bridge. Comparative psychology and behavioral neuroscience have long investigated stress and recovery, social regulation, and symbolic sequencing. These paradigms offer a rich basis for extending WFT beyond human neuroscience, situating collapse and reentry as systemic phenomena conserved across species. By formalizing animal protocols, we aim to (1) identify cross-species markers of identity regulation, (2) test whether collapse and reentry follow parallel trajectories across biological substrates, and (3) provide modular designs that can be adapted across species and experimental traditions.
+This extension is not speculative but grounded in existing empirical traditions. Stress paradigms in rodents and primates capture somatic collapse and reentry dynamics at physiological and behavioral levels. Separation-reunion tasks model relational identity disruption and recovery. Song learning in birds and sequence learning in rodents illustrate collapse and restoration of symbolic coherence. Framed within WFT, these paradigms are not isolated phenomena but expressions of a deeper grammar of identity.
+Building on preregistration-ready human protocols testing somatic (Wₘ), reflective (Wᵣ), and thalamic gating (collapse/reentry backbone) dynamics [1], we here propose three parallel, preregistration-ready protocols for non-human animals. To clearly distinguish these comparative designs, we label them as Protocol D (Somatic: Wₘ), Protocol E (Relational: Wₑ), and Protocol F (Symbolic: Wₛ). Each protocol provides a modular design—specifying collapse manipulations, reentry scaffolds, and measurable outcomes—to test WFT's predictions beyond humans, opening a pathway to truly cross-species identity research.
+Each of the protocols described here (D–F) is paired with a preregistration housed within the WFT Studies project. These preregistrations provide operational scaffolds — including hypotheses, sample size justifications, blinding, exclusion criteria, and analytic plans — that complement the conceptual templates described in this manuscript.
+
+
+Protocol D: Somatic Collapse and Reentry (Stress/Recovery)
+
+Construct: Wₘ (Memory Witness — encoding and metabolization of somatic disruption).
+Rationale: Stress paradigms in animal models reliably induce measurable physiological and behavioral collapse, followed by recovery trajectories that can be scaffolded or disrupted. Mapping these processes within WFT highlights how memory of disruption and reentry is encoded and integrated at a systemic level.
+A full preregistered blueprint for this protocol is available as WFT Protocol D [https://doi.org/10.17605/OSF.IO/R5FP4], which specifies sample size rationale, randomization and blinding procedures, welfare safeguards, composite indices, and confirmatory analytic contrasts.
+Paradigm:
+•	Species: Rodents (mice or rats).
+•	Collapse induction: Mild restraint stress or low-intensity footshock (non-traumatic, standard in affective neuroscience).
+•	Reentry scaffold: Environmental enrichment (novel objects, nest-building materials) or social buffering (pair housing after stress).
+Phases:
+1.	Baseline: Standard housing and open field exploration test (locomotion, center time).
+2.	Collapse: Exposure to stressor → elevated corticosterone, freezing, disrupted exploration.
+3.	Reentry: Placement in enriched cage or with conspecific → physiological normalization, resumption of exploratory behavior.
+Measures:
+•	Physiological: Plasma corticosterone, heart rate variability (HRV).
+•	Behavioral: Open field exploration, latency to resume feeding or grooming.
+•	Optional neural: fMRI or electrophysiological correlates of hippocampal–amygdala coupling.
+Hypotheses:
+1.	Collapse induction will elevate corticosterone, reduce HRV, and suppress exploratory behavior.
+2.	Reentry scaffolds (enrichment, social buffering) will accelerate physiological normalization and behavioral recovery.
+3.	The strength of recovery will predict resilience to subsequent stress exposure (i.e., reduced collapse severity upon re-exposure).
+Preregistration-ready elements:
+•	Clear collapse/reentry operationalization.
+•	Predefined primary outcomes (corticosterone, HRV, exploration).
+•	Counterbalanced order of stress/reentry manipulations.
+•	Stopping rule based on target N with attrition accounted for.
+
+
+Protocol E: Relational Collapse and Reentry (Social Buffering)
+
+Construct: Wₑ (Relational Witness — coherence sustained and restored through social interaction).
+Rationale: Social buffering is a well-established mechanism by which non-human animals recover from stress or disruption. Separation and reunion paradigms provide a natural structure for collapse (isolation) and reentry (reunion), allowing direct measurement of relational identity processes across behavioral and physiological domains.
+This conceptual overview is complemented by WFT Protocol E [https://doi.org/10.17605/OSF.IO/ZGS7M], a preregistered framework that operationalizes the design with explicit sampling plan, social rank moderation, repeated cycle structure, counterbalancing, and preregistered recovery indices.
+Paradigm:
+•	Species: Rodents, primates, or flocking birds.
+•	Collapse induction: Short-term social isolation (minutes to hours, species-dependent).
+•	Reentry scaffold: Reunion with conspecific (pair, group, or familiar partner).
+Phases:
+1.	Baseline: Social housing, observation of affiliative and coordinated behaviors (grooming, synchronized calls, flocking).
+2.	Collapse: Temporary isolation → increased distress vocalizations, reduced exploratory behavior, elevated stress physiology.
+3.	Reentry: Reunion → affiliative behaviors, resynchronization of group or dyad behavior, physiological normalization.
+Measures:
+•	Behavioral: Frequency of distress calls, latency to resume affiliative contact, synchrony indices (movement or vocal timing).
+•	Physiological: Corticosterone/oxytocin assays, HRV, respiration rate.
+•	Optional neural: Amygdala–vmPFC coupling, nucleus accumbens activation, oxytocin receptor expression.
+Hypotheses:
+1.	Social isolation will induce collapse: distress vocalizations, reduced synchrony, elevated stress markers.
+2.	Reunion with conspecifics will accelerate reentry, marked by resumption of affiliative behavior and physiological recovery.
+3.	Stronger reentry (faster recovery) will predict greater resilience to future disruptions (i.e., attenuation of collapse severity with repeated cycles).
+Preregistration-ready elements:
+•	Predefined collapse/reentry windows (isolation vs reunion).
+•	Behavioral/physiological endpoints specified in advance.
+•	Counterbalanced order of isolation duration across subjects.
+•	Sample size rationale based on prior separation-reunion effect sizes.
+
+
+Protocol F: Symbolic Collapse and Reentry (Sequence Restoration)
+
+Construct: Wₛ (Symbolic Witness — the encoding and reconstitution of structured sequences).
+Rationale: Non-human animals demonstrate symbolic or quasi-symbolic competence in the form of learned vocal sequences, task routines, and motor patterns. Disruption of these sequences provides a model of symbolic collapse, while guided re-exposure or scaffolding supports reentry. This allows direct testing of WFT’s claim that symbolic coherence can fragment under disruption and be restored through structured scaffolds.
+Detailed preregistered methods for this protocol are outlined in WFT Protocol F [https://doi.org/10.17605/OSF.IO/9BGTJ], which formalizes the within-subjects crossover design, syntax metrics, sample size rationale, confirmatory versus exploratory outcome sets, and manipulation check thresholds.
+Paradigm:
+•	Species: Songbirds (zebra finches), rodents in sequential lever-press tasks, or primates in structured motor routines.
+•	Collapse induction:
+o	Songbirds: Auditory masking of tutor song or playback of scrambled syllables.
+o	Rodents/primates: Interference training with alternative sequence routines.
+•	Reentry scaffold:
+o	Songbirds: Re-exposure to tutor song, or reinforcement of canonical syntax.
+o	Rodents/primates: Guided rehearsal of original task sequence with cues.
+Phases:
+1.	Baseline: Stable sequence performance (song syntax, task accuracy).
+2.	Collapse: Exposure to interference → broken syntax, increased sequencing errors, disorganized motor patterns.
+3.	Reentry: Scaffolded re-exposure → restoration of structured patterns, reduction of error rates.
+Measures:
+•	Behavioral: Syntax coherence indices, error rates in sequence recall, latency to restore structured routines.
+•	Neural:
+o	Songbirds: Activity in HVC and Area X (striatal song nuclei).
+o	Rodents/primates: Hippocampal–striatal coupling during sequence execution.
+•	Optional physiological: Stress hormone assays during disruption vs reentry to test interaction with symbolic collapse.
+Hypotheses:
+1.	Collapse will manifest as disrupted syntax (birds) or increased sequence errors (rodents/primates).
+2.	Reentry scaffolds (tutor song re-exposure, guided rehearsal) will restore symbolic coherence.
+3.	The degree of symbolic recovery will correlate with neural normalization (striatal/hippocampal coupling).
+Preregistration-ready elements:
+•	Defined collapse induction (masking, interference) and reentry scaffolds (tutor exposure, guided sequence rehearsal).
+•	Pre-specified behavioral and neural indices of collapse and reentry.
+•	Counterbalanced exposure order for disruption types.
+•	Sample size justified by sequence learning/recall effect sizes in the chosen species.
+
+Ethical Considerations
+The experimental protocols outlined herein (D, E, F) are designed to be consistent with the principles of the 3Rs (Replacement, Reduction, and Refinement) in animal research. All proposed procedures involving animal subjects must receive approval from the relevant Institutional Animal Care and Use Committee (IACUC) or equivalent ethical review body prior to implementation. Researchers are urged to consult their local guidelines and employ the most refined techniques available for their species (e.g., non-invasive physiological monitoring, minimizing isolation durations, using positive reinforcement) to ensure animal welfare is prioritized throughout all phases of collapse and reentry.
+General Discussion
+The protocols outlined here extend Witness Field Theory (WFT) into comparative psychology and behavioral neuroscience. By situating collapse and reentry in non-human animals, we highlight systemic features of identity regulation that span species and substrates. Each protocol demonstrates how disruption and recovery can be operationalized in experimental designs: somatic collapse and reentry through stress and buffering (Protocol D), relational collapse and reentry through separation and reunion (Protocol E), and symbolic collapse and reentry through sequence disruption and restoration (Protocol F).
+Cross-Species Parallels
+These protocols are designed as direct mirrors of preregistrations already established in humans. Protocol D (Somatic) parallels human Study A (Wₘ: bio-somatic collapse) on trauma imagery and autonomic collapse [2]. Protocol E (Relational) maps onto human Study B (Wᵣ: reflective sequencing) concerning narrative reordering and recovery processes [3]. Protocol F (Symbolic) corresponds to human Study C (Collapse/Reentry Backbone) and its focus on thalamic gating and network reintegration [4].
+Toward a General Grammar
+Animal protocols also create a bridge toward synthetic systems. Just as collapse and reentry can be studied in rodents or birds, analogous stress-tests can be applied to AI systems: memory disruptions, adversarial reasoning collapse, and tokenization drift. This triangulation — human, non-human animal, artificial — positions WFT as a substrate-general theory of collapse and reentry dynamics.
+Practical Implications
+For comparative psychology and neuroscience, these protocols offer preregistration-ready templates that can be adapted to different species and contexts. For identity theory, they show that collapse and reentry are not isolated to human cognition but are conserved systemic patterns. For AI safety and interpretability, they provide empirical grounding for a framework that treats collapse and reentry as diagnostic categories.
+Future Directions
+Future work may expand these designs into ecological and developmental contexts: how collapse and reentry unfold in dyads, groups, and lifespan trajectories. Animal protocols also provide a testing ground for interventions — environmental enrichment, social scaffolding, symbolic tutoring — that may illuminate general principles of recovery. Ultimately, these comparative designs reinforce the claim that identity is not a static property of systems, but a dynamic field structured by cycles of collapse and reentry.
+References:
+[1] Nigro, D. (2025). Translating WFT into Experimental Protocols. [https://osf.io/9npbu]
+[2] Nigro, D. (2025). WFT Study A: Hippocampal–Insular Coupling and Autonomic Dynamics During Trauma Imagery and Reentry - A Test of Wₘ (Bio Somatic) Collapse and Reentry. [https://doi.org/10.17605/OSF.IO/6PN25]
+[3] Nigro, D. (2025). WFT Study B - Striatal Support for Reflective Sequencing: Testing Wᵣ Narrative Integration via Online Reordering. [https://doi.org/10.17605/OSF.IO/VRBNK]
+[4] Nigro, D. (2025). WFT Study C - Thalamic Gating of DMN-SN Switching During Disruption and Guided Reentry. [https://doi.org/10.17605/OSF.IO/GAZWF]
+
